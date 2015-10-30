@@ -42,7 +42,7 @@ This is going to be the user on your script credentials. You have to put here wh
 
 **PHP_AUTH_PW**
 
-This is going to be the token on your script. You have to put here whatever you want but make sure that the username in your target is the same as this one.
+This is going to be the token on your script. You have to put here whatever you want but make sure that the password in your target is the same as this one.
 
 **CUSTOM_FIELD_ID**
 
